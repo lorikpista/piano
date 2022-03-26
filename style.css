@@ -1,0 +1,52 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.container{
+    display: flex;
+border: black 2px solid;
+    flex-direction: row;
+}
+
+.nota{
+    width: 100px;
+    height: 500px;
+    background-color: white;
+    border:black 1px solid;
+    display: flex;
+
+
+}
+.veqant{
+    background-color: black;
+    width: 25px;
+    height: 300px;
+    
+}
+
+.nje{
+
+    margin-left: auto;
+}
+.dy{
+    justify-self: flex-start;
+}
+
+
+
+p{
+    margin-top: auto;
+    margin-left: auto;
+    margin-bottom: 50%;
+    font-weight: bold;
+    font-size:  30px;
+}
+
+.pse{
+    color: white;
+    margin-left: 30%;
+    margin-top: 500%;;
+}
